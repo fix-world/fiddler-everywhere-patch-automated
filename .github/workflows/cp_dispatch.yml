@@ -6,7 +6,7 @@ on:
       version_to_patch:
         description: 'The Version You Want to Patch'
         required: true
-        default: '6.0.0'
+        default: '5.8.1'
       os-and-arch:
         description: 'Operating System And Architecture'
         required: true
